@@ -138,90 +138,177 @@ dark_mode:
 # Theme color, please use custom CSS to solve other colors, color schema can be inspired by the links below
 # See: https://www.webdesignrankings.com/resources/lolcolors/
 color:
-  # body 背景色
+  # body 背景色 (修改：极淡的紫灰色，比纯灰更柔和)
   # Color of body background
-  body_bg_color: "#eee"
-  # 暗色模式下的 body 背景色，下同
+  body_bg_color: "#f9f7fc"
+  # 暗色模式下的 body 背景色 (修改：深邃的暗紫色)
   # Color in dark mode, the same below
-  body_bg_color_dark: "#181c27"
+  body_bg_color_dark: "#1e1c24"
 
-  # 顶部菜单背景色
+  # 顶部菜单背景色 (修改：使用主题色 #9966cc)
   # Color of navigation bar background
-  navbar_bg_color: "#2f4154"
-  navbar_bg_color_dark: "#1f3144"
+  navbar_bg_color: "#9966cc"
+  navbar_bg_color_dark: "#2a2236"
 
   # 顶部菜单字体色
   # Color of navigation bar text
   navbar_text_color: "#fff"
-  navbar_text_color_dark: "#d0d0d0"
+  navbar_text_color_dark: "#e6e1eb"
 
   # 副标题字体色
   # Color of subtitle text
   subtitle_color: "#fff"
-  subtitle_color_dark: "#d0d0d0"
+  subtitle_color_dark: "#dcd6e3"
 
-  # 全局字体色
+  # 全局字体色 (修改：带微弱紫调的深灰色，减少锐利感)
   # Color of global text
-  text_color: "#3c4858"
-  text_color_dark: "#c4c6c9"
+  text_color: "#4a4454"
+  text_color_dark: "#d1cdd9"
 
-  # 全局次级字体色（摘要、简介等位置）
-  # Color of global secondary text (excerpt, introduction, etc.)
-  sec_text_color: "#718096"
-  sec_text_color_dark: "#a7a9ad"
+  # 全局次级字体色
+  # Color of global secondary text
+  sec_text_color: "#857e91"
+  sec_text_color_dark: "#96929e"
 
   # 主面板背景色
   # Color of main board
   board_color: "#fff"
-  board_color_dark: "#252d38"
+  # 暗色模式主面板 (比背景稍亮的深紫灰)
+  board_color_dark: "#2d2a36"
 
   # 文章正文字体色
   # Color of post text
-  post_text_color: "#2c3e50"
-  post_text_color_dark: "#c4c6c9"
+  post_text_color: "#3b3642"
+  post_text_color_dark: "#d1cdd9"
 
   # 文章正文字体色（h1 h2 h3...）
   # Color of Article heading (h1 h2 h3...)
-  post_heading_color: "#1a202c"
-  post_heading_color_dark: "#c4c6c9"
+  post_heading_color: "#2e2936"
+  post_heading_color_dark: "#e6e1eb"
 
-  # 文章超链接字体色
+  # 文章超链接字体色 (修改：主题色)
   # Color of post link
-  post_link_color: "#0366d6"
-  post_link_color_dark: "#1589e9"
+  post_link_color: "#9966cc"
+  # 暗色模式下链接稍微提亮，保证对比度
+  post_link_color_dark: "#bb99e0"
 
-  # 超链接悬浮时字体色
+  # 超链接悬浮时字体色 (修改：稍亮且柔和的粉紫色)
   # Color of link when hovering
-  link_hover_color: "#30a9de"
-  link_hover_color_dark: "#30a9de"
+  link_hover_color: "#b07ce0"
+  link_hover_color_dark: "#d4b3ff"
 
-  # 超链接悬浮背景色
+  # 超链接悬浮背景色 (修改：极淡的紫色背景)
   # Color of link background when hovering
-  link_hover_bg_color: "#f8f9fa"
-  link_hover_bg_color_dark: "#364151"
+  link_hover_bg_color: "#f3effa"
+  link_hover_bg_color_dark: "#3e384a"
 
-  # 分隔线和表格边线的颜色
+  # 分隔线和表格边线的颜色 (修改：带紫调的浅灰)
   # Color of horizontal rule and table border
-  line_color: "#eaecef"
-  line_color_dark: "#435266"
+  line_color: "#e8e5ed"
+  line_color_dark: "#453f52"
 
   # 滚动条颜色
   # Color of scrollbar
-  scrollbar_color: "#c4c6c9"
-  scrollbar_color_dark: "#687582"
+  scrollbar_color: "#cfc6d9"
+  scrollbar_color_dark: "#5e546b"
   # 滚动条悬浮颜色
   # Color of scrollbar when hovering
-  scrollbar_hover_color: "#a6a6a6"
-  scrollbar_hover_color_dark: "#9da8b3"
+  scrollbar_hover_color: "#9966cc"
+  scrollbar_hover_color_dark: "#8064a1"
 
   # 按钮背景色
   # Color of button
   button_bg_color: "transparent"
   button_bg_color_dark: "transparent"
-  # 按钮悬浮背景色
+  # 按钮悬浮背景色 (修改：淡紫色洗墙效果)
   # Color of button when hovering
-  button_hover_bg_color: "#f2f3f5"
-  button_hover_bg_color_dark: "#46647e"
+  button_hover_bg_color: "#f0ebf5"
+  button_hover_bg_color_dark: "#4a3b59"
+# color:
+#   # body 背景色
+#   # Color of body background
+#   body_bg_color: "#eee"
+#   # 暗色模式下的 body 背景色，下同
+#   # Color in dark mode, the same below
+#   body_bg_color_dark: "#181c27"
+
+#   # 顶部菜单背景色
+#   # Color of navigation bar background
+#   navbar_bg_color: "#2f4154"
+#   navbar_bg_color_dark: "#1f3144"
+
+#   # 顶部菜单字体色
+#   # Color of navigation bar text
+#   navbar_text_color: "#fff"
+#   navbar_text_color_dark: "#d0d0d0"
+
+#   # 副标题字体色
+#   # Color of subtitle text
+#   subtitle_color: "#fff"
+#   subtitle_color_dark: "#d0d0d0"
+
+#   # 全局字体色
+#   # Color of global text
+#   text_color: "#3c4858"
+#   text_color_dark: "#c4c6c9"
+
+#   # 全局次级字体色（摘要、简介等位置）
+#   # Color of global secondary text (excerpt, introduction, etc.)
+#   sec_text_color: "#718096"
+#   sec_text_color_dark: "#a7a9ad"
+
+#   # 主面板背景色
+#   # Color of main board
+#   board_color: "#fff"
+#   board_color_dark: "#252d38"
+
+#   # 文章正文字体色
+#   # Color of post text
+#   post_text_color: "#2c3e50"
+#   post_text_color_dark: "#c4c6c9"
+
+#   # 文章正文字体色（h1 h2 h3...）
+#   # Color of Article heading (h1 h2 h3...)
+#   post_heading_color: "#1a202c"
+#   post_heading_color_dark: "#c4c6c9"
+
+#   # 文章超链接字体色
+#   # Color of post link
+#   post_link_color: "#0366d6"
+#   post_link_color_dark: "#1589e9"
+
+#   # 超链接悬浮时字体色
+#   # Color of link when hovering
+#   link_hover_color: "#30a9de"
+#   link_hover_color_dark: "#30a9de"
+
+#   # 超链接悬浮背景色
+#   # Color of link background when hovering
+#   link_hover_bg_color: "#f8f9fa"
+#   link_hover_bg_color_dark: "#364151"
+
+#   # 分隔线和表格边线的颜色
+#   # Color of horizontal rule and table border
+#   line_color: "#eaecef"
+#   line_color_dark: "#435266"
+
+#   # 滚动条颜色
+#   # Color of scrollbar
+#   scrollbar_color: "#c4c6c9"
+#   scrollbar_color_dark: "#687582"
+#   # 滚动条悬浮颜色
+#   # Color of scrollbar when hovering
+#   scrollbar_hover_color: "#a6a6a6"
+#   scrollbar_hover_color_dark: "#9da8b3"
+
+#   # 按钮背景色
+#   # Color of button
+#   button_bg_color: "transparent"
+#   button_bg_color_dark: "transparent"
+#   # 按钮悬浮背景色
+#   # Color of button when hovering
+#   button_hover_bg_color: "#f2f3f5"
+#   button_hover_bg_color_dark: "#46647e"
 
 # 主题字体配置
 # Font
@@ -369,10 +456,10 @@ navbar:
   menu:
     - { key: "home", link: "/", icon: "iconfont icon-home-fill" }
     - { key: "archive", link: "/archives/", icon: "iconfont icon-archive-fill" }
-    - { key: "category", link: "/categories/", icon: "iconfont icon-category-fill" }
-    - { key: "tag", link: "/tags/", icon: "iconfont icon-tags-fill" }
-    - { key: "about", link: "/about/", icon: "iconfont icon-user-fill" }
-    #- { key: "links", link: "/links/", icon: "iconfont icon-link-fill" }
+    # - { key: "category", link: "/categories/", icon: "iconfont icon-category-fill" }
+    # - { key: "tag", link: "/tags/", icon: "iconfont icon-tags-fill" }
+    # - { key: "about", link: "/about/", icon: "iconfont icon-user-fill" }
+    - { key: "links", link: "/links/", icon: "iconfont icon-link-fill" }
 
 # 搜索功能，基于 hexo-generator-search 插件，若已安装其他搜索插件请关闭此功能，以避免生成多余的索引文件
 # Search feature, based on hexo-generator-search. If you have installed other search plugins, please disable this feature to avoid generating redundant index files
@@ -482,7 +569,7 @@ footer:
 index:
   # 首页 Banner 头图，可以是相对路径或绝对路径，以下相同
   # Path of Banner image, can be a relative path or an absolute path, the same on other pages
-  banner_img: /img/default.png
+  banner_img: /images/cover.png
 
   # 头图高度，屏幕百分比
   # Height ratio of banner image
@@ -554,7 +641,7 @@ index:
 # Post Page
 #---------------------------
 post:
-  banner_img: /img/default.png
+  banner_img: /images/cover.png
   banner_img_height: 70
   banner_mask_alpha: 0.3
 
@@ -672,7 +759,7 @@ post:
     # CreativeCommons license
     # See: https://creativecommons.org/share-your-work/cclicenses/
     # Options: BY | BY-SA | BY-ND | BY-NC | BY-NC-SA | BY-NC-ND | ZERO
-    license: 'BY'
+    license: 'BY-NC'
 
     # 显示作者
     author:
@@ -918,7 +1005,7 @@ discuss:
 # Archive Page
 #---------------------------
 archive:
-  banner_img: /img/default.png
+  banner_img: /images/cover.png
   banner_img_height: 60
   banner_mask_alpha: 0.3
 
@@ -929,7 +1016,7 @@ archive:
 #---------------------------
 category:
   enable: true
-  banner_img: /img/default.png
+  banner_img: /images/cover.png
   banner_img_height: 60
   banner_mask_alpha: 0.3
 
@@ -958,7 +1045,7 @@ category:
 #---------------------------
 tag:
   enable: true
-  banner_img: /img/default.png
+  banner_img: /images/cover.png
   banner_img_height: 80
   banner_mask_alpha: 0.3
   tagcloud:
@@ -975,7 +1062,7 @@ tag:
 #---------------------------
 about:
   enable: true
-  banner_img: /img/default.png
+  banner_img: /images/cover.png
   banner_img_height: 60
   banner_mask_alpha: 0.3
   avatar: /img/avatar.png
@@ -997,7 +1084,7 @@ about:
 # Custom Page through `hexo new page`
 #---------------------------
 page:
-  banner_img: /img/default.png
+  banner_img: /images/cover.png
   banner_img_height: 60
   banner_mask_alpha: 0.3
 
@@ -1008,7 +1095,7 @@ page:
 #---------------------------
 page404:
   enable: true
-  banner_img: /img/default.png
+  banner_img: /image/404.jpg
   banner_img_height: 85
   banner_mask_alpha: 0.3
   # 重定向到首页的延迟(毫秒)
