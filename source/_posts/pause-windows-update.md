@@ -31,8 +31,6 @@ tags:
   - 表示最大暂停更新天数，`36500` 意为将近十年。该数值可根据需要自行修改。
 5. 在 Windows 设置中找到 Windows 更新，在高级选项找到暂停更新，点击下拉选择框选择时间。稍等片刻，拉至最下方选择最长的暂停时间，点击确定。
 
-![FlightSettingsMaxPauseDays](https://lylighte.cc/wp-content/uploads/2025/08/FlightSettingsMaxPauseDays.png)
-
 前四步可用 BAT 脚本执行，按 `Win`+`R` 输入 `cmd` 确定，在命令行粘贴代码
 
 ```bat
