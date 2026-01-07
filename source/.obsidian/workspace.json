@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/n-th-website-creation.md",
-                "mode": "source",
-                "source": false
+                "file": "_drafts/computer-diy-1.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "n-th-website-creation"
+              "title": "computer-diy-1"
             }
           }
         ]
@@ -179,14 +179,13 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "bases:创建新数据库": false
+      "command-palette:打开命令面板": false
     }
   },
-  "active": "d61814dac9803b16",
+  "active": "f083ed379f9a191d",
   "lastOpenFiles": [
-    "未命名.base",
     "_posts/n-th-website-creation.md",
+    "未命名.base",
     "_posts/windows-10-personalization.md",
     "_posts/pause-windows-update.md",
     "_posts/hello-world.md"
