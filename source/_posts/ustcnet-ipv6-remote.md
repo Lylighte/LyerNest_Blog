@@ -4,6 +4,8 @@ date: 2026-01-09 23:01:23
 tags:
 ---
 
+请确保阅读完本文的 [**FAQ** 部分](/2026/01/ustcnet-ipv6-remote/#FAQ)，了解相关风险与注意事项。
+
 > 撰写此文时，作者是 [USTC](https://ustc.edu.cn) 的在校学生，利用了校园网的 IPv6 特性实现了远程串流访问。
 > 
 > 本文介绍 ustcnet + NameSilo + Cloudflare + ddns-go + sunshine 的串流指南，适用于远程访问计算机。
@@ -185,7 +187,14 @@ Sunshine 不受 Windows 版本功能限制。前往 https://app.lizardbyte.dev/S
 
 ## FAQ
 
+**特别提醒**：境内的域名服务要求[**备案**](https://icp.nic.edu.cn/ICP%E5%A4%87%E6%A1%88%E6%8C%87%E5%8D%97.html)，请自行评估风险。同时，校园网也有相关规定，请确保你的使用行为符合学校的网络使用政策。一般来说，不要进行规模化的对外服务，确保个人使用的IP/域名不要泄露给他人，设置合理的防火墙配置（例如仅允许特定IP段的访问……）。
+
+另外有关安全运维的内容，可食用 https://201.ustclug.org/ops/security/
+
+[返回](/2026/01/ustcnet-ipv6-remote/#)
+
 博客的开发源码是在 GitHub 开源的，或许可以在 https://github.com/Lylighte/LyerNest_Blog/issues 提问……
+
 
 ---
 
