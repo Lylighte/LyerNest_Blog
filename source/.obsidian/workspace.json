@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_drafts/computer-diy-1.md",
-                "mode": "preview",
-                "source": true
+                "file": "_drafts/ustcnet-ipv6-remote.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "computer-diy-1"
+              "title": "ustcnet-ipv6-remote"
             }
           }
         ]
@@ -184,6 +184,8 @@
   },
   "active": "f083ed379f9a191d",
   "lastOpenFiles": [
+    "media/2026/01/remote.png",
+    "_drafts/ustcnet-ipv6-remote.md",
     "_posts/n-th-website-creation.md",
     "未命名.base",
     "_posts/windows-10-personalization.md",
