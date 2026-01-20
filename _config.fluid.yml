@@ -194,7 +194,8 @@ color:
 
   # 超链接悬浮时字体色 (修改：稍亮且柔和的粉紫色)
   # Color of link when hovering
-  link_hover_color: "#b07ce0"
+  # link_hover_color: "#b07ce0"
+  link_hover_color: "#8833cc"
   link_hover_color_dark: "#d4b3ff"
 
   # 超链接悬浮背景色 (修改：极淡的紫色背景)
@@ -220,8 +221,9 @@ color:
   # Color of button
   button_bg_color: "transparent"
   button_bg_color_dark: "transparent"
-  # 按钮悬浮背景色 (修改：淡紫色洗墙效果)
+  # 按钮悬浮背景色
   # Color of button when hovering
+  # button_hover_bg_color: "#8833cc"
   button_hover_bg_color: "#f0ebf5"
   button_hover_bg_color_dark: "#4a3b59"
 # color:

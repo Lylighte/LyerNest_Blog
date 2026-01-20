@@ -6,5 +6,5 @@ node_modules/
 public/
 .deploy*/
 _multiconfig.yml
-/source/templatefiles
-/source/.obsidian
+source/templatefiles/
+source/.obsidian/
