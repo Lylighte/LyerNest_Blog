@@ -23,7 +23,7 @@ tags:
 
 可以直接前往运行目录，将 `saves` 文件夹中的对应存档复制出来。
 
-如果你会使用 [Litematica](https://www.mcmod.cn/class/2261.html) 等工具，可以将建筑导出为 schem 原理图文件，效果等同于存档。
+如果你会使用 [Litematica](https://www.mcmod.cn/class/2261.html) 等工具，可以将建筑导出为 schem 原理图文件（.litematica 或其他），效果等同于存档。
 
 > 如果需要更详细的导出教程，请在群里询问~~催更~~。
 
