@@ -58,7 +58,7 @@ tags:
 
 USTC Minecraft 社区相关：
 
-*   **Discord**: [https://discord.gg/9ASQUgcWyp](https://discord.gg/9ASQUgcWyp)
+*   **Discord**: 略
 *   **KOOK 语音**: [https://kaihei.co/Amikj8](https://kaihei.co/Amikj8)
 
 外部链接：
