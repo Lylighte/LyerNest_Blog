@@ -1,7 +1,7 @@
 ---
 title:  个性化 Windows 10 设置
 date: 2026-01-06 15:25:48
-tags:
+tags: [Tutorial, Windows]
 ---
 
 > 文章最初发表于 2025 年 9 月 8 日。

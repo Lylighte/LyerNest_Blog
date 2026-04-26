@@ -1,7 +1,7 @@
 ---
 title: vivid/stasis 的 Minecraft 同人作
 date: 2026-02-06 13:23:59
-tags:
+tags: [Note, Minecraft]
 ---
 
 > vivid/stasis 的 Minecraft 同人作

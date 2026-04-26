@@ -1,7 +1,7 @@
 ---
 title: FRP 简易教程
 date: 2026-03-25 14:21:38
-tags:
+tags: [Tutorial]
 ---
 
 这是一篇 **FRP (Fast Reverse Proxy) 简易教程**。FRP 可用于远程访问内网服务。

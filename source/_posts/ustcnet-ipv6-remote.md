@@ -1,7 +1,7 @@
 ---
 title: 【教程】USTC 宿舍 IPv6 串流指南
 date: 2026-01-09 23:01:23
-tags:
+tags: [Tutorial, USTC, Network]
 ---
 
 请确保阅读完本文的 [**FAQ** 部分](/2026/01/ustcnet-ipv6-remote/#FAQ)，了解相关风险与注意事项。

@@ -1,7 +1,7 @@
 ---
 title: USTC Minecraft 名人堂与历史链接
 date: 2026-01-30 17:23:01
-tags:
+tags: [USTC, Minecraft]
 ---
 
 

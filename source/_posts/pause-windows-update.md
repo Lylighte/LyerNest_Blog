@@ -1,7 +1,7 @@
 ---
 title: 暂停 Windows 的自动更新
 date: 2026-01-06 15:20:57
-tags:
+tags: [Tutorial, Windows]
 ---
 
 > 文章最初发表于 2025 年 8 月 19 日。

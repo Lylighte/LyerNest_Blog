@@ -1,7 +1,7 @@
 ---
 title: 空明流的PC折腾史
 date: 2026-01-07 18:05:18
-tags:
+tags: [Computer]
 ---
 
 
