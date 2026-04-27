@@ -19,6 +19,7 @@ date: 2026-04-27 11:16:19
 ```json
     "oaicopilot.models": [
         {
+            "displayName": "deepseek-v4-flash(high)",
             "id": "deepseek-v4-flash",
             "owned_by": "deepseek",
             "baseUrl": "https://api.deepseek.com",
