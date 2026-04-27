@@ -195,7 +195,8 @@ color:
   # 超链接悬浮时字体色 (修改：稍亮且柔和的粉紫色)
   # Color of link when hovering
   # link_hover_color: "#b07ce0"
-  link_hover_color: "#8833cc"
+  # link_hover_color: "#8833cc"
+  link_hover_color: "#d4b3ff"
   link_hover_color_dark: "#d4b3ff"
 
   # 超链接悬浮背景色 (修改：极淡的紫色背景)
